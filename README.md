@@ -1,16 +1,11 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+## An awesome good looking app that calculates the BMI (Body Mass Index) of the user
 
-## Getting Started
+As said, this app calculates the BMI of a user using the height and the weight of the user and prompt the user if he's Overweight, Underweight or Noraml. 
+This is calculted using some logic that is provided by the `CalculatorBrain` inside the `calculator_brain.dart`, and display the result into the screen in a simple and friendly way.
 
-This project is a starting point for a Flutter application.
+Here is an example in a video of how to use the app:
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/109692895/236014431-8b6b4b0c-1115-466a-b8c7-b5857e2264d8.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
